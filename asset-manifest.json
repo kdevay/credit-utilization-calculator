@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/credit-utilization-calculator/static/css/main.f79b0605.css",
-    "main.js": "/credit-utilization-calculator/static/js/main.526ae2d5.js",
+    "main.js": "/credit-utilization-calculator/static/js/main.e6f3fd54.js",
     "index.html": "/credit-utilization-calculator/index.html",
     "main.f79b0605.css.map": "/credit-utilization-calculator/static/css/main.f79b0605.css.map",
-    "main.526ae2d5.js.map": "/credit-utilization-calculator/static/js/main.526ae2d5.js.map"
+    "main.e6f3fd54.js.map": "/credit-utilization-calculator/static/js/main.e6f3fd54.js.map"
   },
   "entrypoints": [
     "static/css/main.f79b0605.css",
-    "static/js/main.526ae2d5.js"
+    "static/js/main.e6f3fd54.js"
   ]
 }
